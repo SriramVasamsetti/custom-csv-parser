@@ -1,0 +1,5 @@
+# Custom CSV Parser Requirements
+# This project uses only Python standard library.
+# No external dependencies required.
+
+# Python version: 3.7+
